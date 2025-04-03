@@ -16,3 +16,15 @@ Welcome to TrumpetToken – the token that acts as the guardian of the crypto sc
 ## Code
 
 Flattened Solidity Code can be found in this repo. We might add additional features later.
+
+## Technical Documentation
+
+- Standard ERC20
+- 6 Decimals
+- Pausable for emergencies
+- Upgradable in order to add features and create lively ecosystem later
+- Name: TRUMPETTOKEN
+- Symbol: TTT
+- Chain: Ethereum / ETH
+- Contract/Token Address: 0xaDEB8D2D32B1E902c624e8fdD1dd8AfDaE26f2b4
+- Exchange: Any DEX like Uniswap works
